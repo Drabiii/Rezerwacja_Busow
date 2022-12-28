@@ -1,0 +1,15 @@
+﻿  busfunction.c
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(28,14): warning C4013: niezdefiniowany "getch"; przy założeniu, że extern zwraca int
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(107,22): warning C4013: niezdefiniowany "bookinfoerror"; przy założeniu, że extern zwraca int
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(158,24): warning C4013: niezdefiniowany "cancelinfoerror"; przy założeniu, że extern zwraca int
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(181,27): warning C4474: „scanf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(181,27): message : symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(184,20): warning C4013: niezdefiniowany "menu"; przy założeniu, że extern zwraca int
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(205,27): warning C4474: „scanf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(205,27): message : symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+  Trwa generowanie kodu
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Rezerwacja Busów.vcxproj -> C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\x64\Release\Rezerwacja Busów.exe

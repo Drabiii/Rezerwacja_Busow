@@ -1,0 +1,7 @@
+﻿  busfunction.c
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(25,14): warning C4013: niezdefiniowany "getch"; przy założeniu, że extern zwraca int
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(73,10): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(143,10): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(112): warning C4715: "bookbus”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\busfunction.c(178): warning C4715: "cancelbus”: niewszystkie ścieżki kodu zwracają wartość
+  Rezerwacja Busów.vcxproj -> C:\Users\Drabiii\Desktop\testt\Rezerwacja Busów\x64\Debug\Rezerwacja Busów.exe
